@@ -7,9 +7,6 @@ CAE is a company which provides flight simulators as well as training solution f
 In order to help CAE to improve their way to train pilots and make flight safer, we developed a model to return if the competency has to be flagged according to the features of the  simulation. 
 There are five challenges for this project: time series analysis, under 500 samples, risk of mislabel data, unbalanced data and difference data size. We came up with ideas to solve these five challenges
 
-![alt text](dataExploration.png )
-![alt text](explore1.png )
-![alt text](explore2.png )
 ![alt text](overlap1.png )
 ![alt text](overlap2.png )
 ![alt text](mean.png )
