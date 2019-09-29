@@ -1,5 +1,6 @@
 # ImplementAI 2019
-
+ImplementAI is hosted by McGill Artificial Intelligence Society, which is a 24-hour hackathon to learn how AI can be used to overcome societal problems and boost competitiveness. There are five sponsor challenges and we chose the challenge from CAE. 
+CAE is a company which provides flight simulators as well as training solution for the airline companies. 
 
 # CAE Project
 In order to help CAE to improve their way to train pilots and make flight safer, we developed a model to return if the competency has to be flagged according to the features of the  simulation. 
