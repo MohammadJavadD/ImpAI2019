@@ -20,9 +20,19 @@ Scikit-Learn (http://scikit-learn.org/stable/install.html)
 
 TensorFlow (https://www.tensorflow.org/)
 
-# Reference
-If you are using this code please cite our paper.
+# Team Name: Data Pirates
+Team Members: 
+Abderrahim Khalifa (Polytechnique Montreal, Master student, khalifa.abde95@gmail.com)
+Mohammad Javad Darvishi (UDEM, PHD student, 653mjd@gmail.com)
+Suzy Liu (McGill, Undergraduate student, suzylxx@gmail.com)
 
-Bashivan, et al. "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks." International conference on learning representations (2016).
+Project Name: CAERise Dataset
 
-http://arxiv.org/abs/1511.06448
+GitHub Link: https://github.com/MohammadJavadD/ImpAI2019
+
+Documentation Link: https://docs.google.com/document/d/1Zb2WzPsGEl38caHymcJZHS6xF9ZEauKKg8jb4ZPQtqY/edit?usp=sharing
+
+Presentation Link: https://docs.google.com/presentation/d/1QXF8dv90jYIqdmEyEdziblRFX8mlVLaj_7R6JBYua7c/edit?usp=sharing
+
+# References
+
