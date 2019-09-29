@@ -1,9 +1,9 @@
-# ImpAI2019
+# ImplementAI 2019
 
-# EEGLearn
-A set of functions for supervised feature learning/classification of mental states from EEG based on "EEG images".
-This code can be used to construct sequence of images (EEG movie snippets) from ongoing EEG activities and to classify between different cognitive states through recurrent-convolutional neural
-nets. More generally it could be used to discover patterns in multi-channel timeseries recordings with known spatial relationship between sensors. Each color channel in the output image can contains values for a specific features computed for all sensors within a time window.
+
+# CAE Project
+In order to help CAE to improve their way to train pilots and make flight safer, we developed a model to return if the competency has to be flagged according to the features of the  simulation. 
+There are five challenges for this project: time series analysis, under 500 samples, risk of mislabel data, unbalanced data and difference data size. We came up with ideas to solve these five challenges
 
 ![alt text](diagram.png "Converting EEG recordings to movie snippets")
 
@@ -12,32 +12,11 @@ In order to run this code you need to install the following modules:
 
 Numpy and Scipy (http://www.scipy.org/install.html)
 
+Panda (https://pandas.pydata.org/)
+
 Scikit-Learn (http://scikit-learn.org/stable/install.html)
 
-Theano (http://deeplearning.net/software/theano/install.html)
-
-Lasagne (http://lasagne.readthedocs.org/en/latest/user/installation.html)
-
-`pip install -r requirements.txt`
-
-`pip install [path_to_EEGLearn]`
-
-You can use the package in your code:
-```
-import eeglearn
-import eeglearn.eeg_cnn_lib as eeglib
-
-images = eeglib.gen_images(locs, features, nGridPoints)
-eeglib.train(images, labels, train_test_fold, model_type)
-```
-
-# Some Notes:
-1. When using the images to train a neural network, in many cases it is helpful to scale the values in the images to a symmetric range like `[-0.5, 0.5]`.
-2. Images generated with `gen_images` function appear in the center of the field with unused space around them. This causes edges to appear around the images. To get around this, an edgeless option was added to gen_images function but I never systematically tried it to evaluate potential gains in performance.
-
-A Tensorflow implementation of the model can be found here (Special thanks to @YangWangsky):
-
-https://github.com/YangWangsky/tf_EEGLearn
+TensorFlow (https://www.tensorflow.org/)
 
 # Reference
 If you are using this code please cite our paper.
