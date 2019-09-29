@@ -8,8 +8,6 @@ In order to help CAE to improve their way to train pilots and make flight safer,
 There are five challenges for this project: time series analysis, under 500 samples, risk of mislabel data, unbalanced data and difference data size. We came up with ideas to solve these five challenges
 
 ![alt text](/Img/overlap1.png "over lap feature for different samples in line charts")
-![alt text](/Img/overlap2.png "over lap feature for different samples in scatter dot charts")
-![alt text](/Img/mean.png "mean for 0 and 1 lable")
 
 # Installation and Dependencies
 In order to run this code you need to install the following modules:
