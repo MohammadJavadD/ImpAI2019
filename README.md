@@ -22,8 +22,9 @@ Scikit-Learn (http://scikit-learn.org/stable/install.html)
 TensorFlow (https://www.tensorflow.org/)
 
 # Team Name: Data Pirates
-#Project Name: CAERise Dataset
-#Team Members: 
+# Project Name: CAERise Dataset
+# Team Members:
+
 Abderrahim Khalifa (Polytechnique Montreal, Master student, khalifa.abde95@gmail.com)
 
 Mohammad Javad Darvishi (UDEM, PHD student, 653mjd@gmail.com)
