@@ -1,4 +1,4 @@
-# ImplementAI 2019
+# ImplementAI 2019 (CAERise Dataset)
 ImplementAI 2019 
 (https://www.facebook.com/events/910055566037432/)
 ImplementAI is hosted by McGill Artificial Intelligence Society, which is a 24-hour hackathon to learn how AI can be used to overcome societal problems and boost competitiveness. There are five sponsor challenges and we chose the challenge from CAE. 
@@ -6,7 +6,7 @@ CAE is a company which provides flight simulators as well as training solution f
 
 # CAE Project
 In order to help CAE to improve their way to train pilots and make flight safer, we developed a model to return if the competency has to be flagged according to the features of the  simulation. 
-There are five challenges for this project: time series analysis, under 500 samples, risk of mislabel data, unbalanced data and difference data size. We came up with ideas to solve these five challenges
+There are five challenges for this project: time series analysis, under 500 samples, risk of mislabel data, unbalanced data and difference data size. We came up with ideas to solve these five challenges.
 
 ![alt text](/Img/overlap1.png "over lap feature for different samples in line charts")
 
@@ -22,7 +22,7 @@ Scikit-Learn (http://scikit-learn.org/stable/install.html)
 TensorFlow (https://www.tensorflow.org/)
 
 # Team Name: Data Pirates
-# Project Name: CAERise Dataset
+
 # Team Members:
 
 Abderrahim Khalifa (Polytechnique Montreal, Master student, khalifa.abde95@gmail.com)
