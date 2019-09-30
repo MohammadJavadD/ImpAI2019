@@ -2,8 +2,7 @@
 ImplementAI 2019 
 (https://www.facebook.com/events/910055566037432/)
 ImplementAI is hosted by McGill Artificial Intelligence Society, which is a 24-hour hackathon to learn how AI can be used to overcome societal problems and boost competitiveness. There are five sponsor challenges and we chose the challenge from CAE. 
-CAE is a company which provides flight simulators as well as training solution for the airline companies. 
-(https://www.cae.com/)
+CAE is a company which provides flight simulators as well as training solution for the airline companies (https://www.cae.com/).
 
 # CAE Project
 In order to help CAE to improve their way to train pilots and make flight safer, we developed a model to return if the competency has to be flagged according to the features of the  simulation. 
@@ -23,12 +22,15 @@ Scikit-Learn (http://scikit-learn.org/stable/install.html)
 TensorFlow (https://www.tensorflow.org/)
 
 # Team Name: Data Pirates
-Team Members: 
+#Project Name: CAERise Dataset
+#Team Members: 
 Abderrahim Khalifa (Polytechnique Montreal, Master student, khalifa.abde95@gmail.com)
+
 Mohammad Javad Darvishi (UDEM, PHD student, 653mjd@gmail.com)
+
 Suzy Liu (McGill, Undergraduate student, suzylxx@gmail.com)
 
-Project Name: CAERise Dataset
+
 
 GitHub Link: https://github.com/MohammadJavadD/ImpAI2019
 
